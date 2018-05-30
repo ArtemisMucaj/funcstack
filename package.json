@@ -1,0 +1,17 @@
+{
+  "name": "funcstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fluture": "^8.0.2",
+    "fluture-sanctuary-types": "^2.1.0",
+    "sanctuary": "^0.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artemis Mucaj",
+  "license": "ISC"
+}
